@@ -1,0 +1,18 @@
+#chat-container {
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+#chat-history {
+  height: 200px;
+  overflow-y: scroll;
+  border: 1px solid #eee;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#user-input {
+  width: 80%;
+}
